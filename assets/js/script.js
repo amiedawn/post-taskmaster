@@ -168,8 +168,6 @@ $("#remove-tasks").on("click", function() {
   saveTasks();
 });
 
-
-
 // load tasks for the first time
 loadTasks();
 
